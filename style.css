@@ -1,0 +1,75 @@
+.title{
+    text-align: center;
+}
+
+
+.img-container{
+    text-align: center;
+    display: block;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    
+}
+img{
+    width: 20%;
+    height: 5%;
+    border-radius: 80%;
+    padding-top: 5px;
+}
+.author{
+    text-transform: uppercase;
+    text-indent: 2%;
+    text-align: center;
+    color: #ffff;
+
+}
+.job{
+    text-align: center;
+    text-transform: uppercase;
+    text-indent: 2%;
+    font-size: 20px;
+    color: white;
+}
+.review{
+    width: 50%;
+    height: 50%;
+    background-color:#dfdfe2;
+    text-align: center;
+    border-radius: 10px;
+    margin: 0 auto;
+    color: #ffff;
+}
+.button-container .prev-btn {
+    text-decoration: none;
+    margin: 20px;
+    border: none;
+    background: none;
+    color: white;
+}
+.button-container .next-btn {
+    text-decoration: none;
+    margin: 20px;
+    border: none;
+    background: none;
+    color: white;
+    
+}
+
+.random-button button{
+    padding: 15px 32px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    margin: 15px;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    background-color: green;
+        
+}
+
+
+
+
+
